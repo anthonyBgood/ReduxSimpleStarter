@@ -1,6 +1,10 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## AB Notes
+This is code came from the reading for the redux course. My edits follow this tutorial at: https://blog.pusher.com/the-what-and-why-of-redux/
+
+*original text* : 
+~~Interested in learning [Redux](https://www.udemy.com/react-redux/)?~~
 
 ### Getting Started
 
